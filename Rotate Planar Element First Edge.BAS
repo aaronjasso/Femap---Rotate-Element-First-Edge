@@ -4,7 +4,7 @@ Sub Main
 	'
 	'v1
 	'
-	'written by AMJ 2.26.2020
+	'written by Aaron Jasso 2.26.2020
 	'=======================================================
     Dim App as femap.model
     Set App = feFemap()
