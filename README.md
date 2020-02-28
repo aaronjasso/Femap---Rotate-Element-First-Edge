@@ -6,7 +6,7 @@ This macro is license-free and released into the public domain.
 See also: [How to use Femap Scripts](https://github.com/aaronjasso/How_to_use_Femap_Scripts) and [The List of my Femap Scripts](https://github.com/aaronjasso/My-Femap-Scripts)
 
 ---
-This macro moves an element's first edge to an adjacent side by shifting the position each node that defines it. The images below demonstrate this.
+This macro moves an element's first edge to an adjacent side by shifting the position each node that defines it. The images below demonstrate this. Element orientation is turned on, and the vector on the element is drawn from its node 4 to node 1.
 
 ### Before
 ![Before](images/Before.png)
